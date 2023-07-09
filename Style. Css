@@ -1,0 +1,20 @@
+.calculator {
+    width: 250px;
+    background-color: #177c8e;
+    border: 1px solid #3b3636;
+    padding: 9px;
+    border-radius: 3px;
+    margin: 0 auto;
+  }
+  
+  .calculator input[type="button"] {
+    width: 40px;
+    height: 40px;
+    margin: 5px;
+    background-color: #305e7c;
+  }
+  
+  .calculator input[type="text"] {
+    width: 200px;
+    margin-bottom: 10px;
+  }
